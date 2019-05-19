@@ -850,7 +850,6 @@
         // (string | optional) the class name you want to apply to that specific message
         class_name: 'my-sticky-class'
       });
-
       return false;
     });
   </script>
@@ -864,7 +863,6 @@
       $("#date-popover").click(function(e) {
         $(this).hide();
       });
-
       $("#my-calendar").zabuto_calendar({
         action: function() {
           return myDateFunction(this.id, false);
@@ -888,7 +886,6 @@
         ]
       });
     });
-
     function myNavFunction(id) {
       $("#date-popover").hide();
       var nav = $("#" + id).data("navigation");
