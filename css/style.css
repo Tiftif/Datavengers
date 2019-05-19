@@ -15,6 +15,30 @@ Website: http://Alvarez.is/
 @import url(http://fonts.googleapis.com/css?family=Ruda:400,700,900);
 
 /* BASIC THEME CONFIGURATION */
+
+.fleche {
+    font-size: 20px;
+    color: #337ab7;
+}
+
+.fleche-warning {
+    font-size: 20px;
+    color: #f0ad4e;
+}
+
+.fleche-down {
+    font-size: 20px;
+    color: #d9534f;
+}
+
+.logo_om {
+    height: 125px;
+    width: auto;
+}
+
+.spider {
+    padding-left: 50px;
+}
 body {
     color: #797979;
 	background: #eaeaea;
