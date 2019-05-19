@@ -16,6 +16,10 @@ Website: http://Alvarez.is/
 
 /* BASIC THEME CONFIGURATION */
 
+
+.form-control {
+    padding: 20px;
+}
 .fleche {
     font-size: 20px;
     color: #337ab7;
